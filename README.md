@@ -2,27 +2,19 @@
 
 [ Languages: [English](README.md) ]
 
-<!-- BADGES/ -->
-[![Gitter chat button](https://img.shields.io/badge/gitter-Join%20Chat-brightgreen.svg)](https://gitter.im/coodict/python3-in-one-pic)
-[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://www.coinbase.com/rainyear)
-<!-- /BADGES -->
 
 # Online Version
 
-[https://git.io/Coo-py3](https://git.io/Coo-py3)
+[Click here for see online version](https://mm.tt/1583752447?t=FxcCPAwd9M)
 
 ## Notebook
 
-[IPython Notebook Version](https://github.com/coodict/python3-in-one-pic/blob/master/notebooks/py3-in-one-pic.ipynb)
+[IPython Notebook Version](https://github.com/thejunaidiqbal/learnPython3-inOnePicture/blob/master/notebooks/py3-in-one-pic.ipynb)
 
 ## Preview
 
 ![py3 in one pic](py3%20in%20one%20pic.png)
 
-## Releated projects
-
-* [Javascript in one pic](https://github.com/coodict/javascript-in-one-pic)
-* Go in one pic (in preparation)
 
 ## TODO
 - [X] Use IPython notebook, it's really very cool!
@@ -68,17 +60,26 @@
   - [ ] `os, sys`
   - [ ] `datetime`
 
-## Donation
 
-If you find this project helpful, please consider making a donation with [bitcoin](https://www.coinbase.com/rainyear) or [other way](https://github.com/rainyear/lolita/wiki/Donation) :beers:
 
-## References
+## Author
+You can get in touch with me on my LinkedIn Profile:
 
-1. [Python 3.4.3 documentation](https://docs.python.org/3/index.html)
-2. [Dive Into Python 3](http://www.diveintopython3.net/table-of-contents.html)
-3. Writing Idiomatic Python 3.3
-4. [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)
-5. [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+#### Muhammad Junaid Iqbal
+[![LinkedIn Link](https://img.shields.io/badge/LinkedIn-Muhammad%20Junaid%20Iqbal-lightgrey)](https://www.linkedin.com/in/thejunaidiqbal)
 
-## License
-See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
+You can follow me on my GitHub Profile for more updates on my Open Source Projects:
+</br>
+[![GitHub Follow](https://img.shields.io/badge/Connect-Muhammad%20Junaid%20Iqbal-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/thejunaidiqbal)
+
+If you liked the repo then kindly support it by giving it a star ⭐⭐⭐⭐⭐!</br>
+[![GitHub stars](https://img.shields.io/github/stars/thejunaidiqbal/learnPython3-inOnePicture)](https://github.com/thejunaidiqbal/learnPython3-inOnePicture/stargazers)
+
+If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
+
+## Issues
+[![GitHub issues](https://img.shields.io/github/issues/thejunaidiqbal/learnPython3-inOnePicture?style=plastic)](https://github.com/thejunaidiqbal/learnPython3-inOnePicture/issues)
+
+If you face any issue in my project, you can create a new issue in the "Issues Section" and I will be glad to help you out.
+
+
